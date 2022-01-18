@@ -2,6 +2,7 @@
 <h3 align="center">A passionate CSE student from Delhi Technological university with 2 years of experience working with different technologies ranging from C++ to mobile development. Currently focused on mobile development using Flutter to create apps for Android and iOS.I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinverma-121&label=Profile%20views&color=0e75b6&style=flat" alt="nitinverma-121" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
