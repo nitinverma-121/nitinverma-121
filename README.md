@@ -11,7 +11,7 @@ Currently focused on mobile development using Flutter to create apps for Android
 
 - 📫 How to reach me **nitinverma03421@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/jovQX](shorturl.at/jovQX)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HSUp6rHTXNXW1Yrygx6OR1HcL2CLAcxR/view)
 
 - ⚡ Fun fact **I think i am actually funny xD.**
 
