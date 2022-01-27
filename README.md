@@ -36,10 +36,10 @@ Currently focused on mobile development using Flutter to create apps for Android
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-<p><img align="left" height= "150" width= "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinverma-121&show_icons=true&locale=en&layout=compact" alt="nitinverma-121" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinverma-121&show_icons=true&locale=en&layout=compact" alt="nitinverma-121" /></p>
 
-<p><img align="right" height= "150" width= "300" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinverma-121&" alt="nitinverma-121" /></p>
-<h3 align="center">TOP REPO:</h3>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinverma-121&" alt="nitinverma-121" /></p>
+<h2 align="center">TOP REPO</h2>
 <p align="center">
 <a href="https://github.com/nitinverma-121">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinverma-121&repo=News-App-Good-News&theme=vue-dark&hide_border=true" height="185">
