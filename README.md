@@ -3,22 +3,21 @@
 Currently focused on mobile development using Flutter to create apps for Android and iOS.I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinverma-121&label=Profile%20views&color=0e75b6&style=flat" alt="nitinverma-121" /> </p>
-<img align="left" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-       🌱 I’m currently learning Artificial Intelligence
-
-
-
-       💬 Ask me about **Flutter, dart and C++**
+<img align="left" alt="Coding" width="400" height="180" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+   
+   <h4 align="right">
+   🌱 I’m currently learning Artificial Intelligence
 
 
-
-       📫 How to reach me **nitinverma03421@gmail.com**
-
+   💬 Ask me about **Flutter, dart and C++**
 
 
-       ⚡ Fun fact **I think i am actually funny xD.**
+   📫 How to reach me **nitinverma03421@gmail.com**
+
+
+   ⚡ Fun fact **I think i am actually funny xD.**
     
+   👋 LIFE IS FUN
     
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitinverma-121&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
