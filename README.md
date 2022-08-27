@@ -36,8 +36,8 @@ Currently focused on mobile development using Flutter to create apps for Android
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinverma-121&show_icons=true&locale=en&layout=compact" alt="nitinverma-121" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinverma-121&" alt="nitinverma-121" /></p>
-<h2 align="center">TOP REPO</h2>
-<p align="center">
+<h2 align="left">TOP REPO</h2>
+<p align="left">
 <a href="https://github.com/nitinverma-121/News-App-Good-News">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinverma-121&repo=News-App-Good-News&theme=vue-dark&hide_border=true" height="185">
 </a>
